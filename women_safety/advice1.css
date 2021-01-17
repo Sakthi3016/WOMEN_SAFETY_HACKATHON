@@ -1,0 +1,44 @@
+
+body{
+    background-image: url(life.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.para1{
+    text-align: center;
+    width: 650px;
+    height: 150px;
+    margin-left: 340px;
+
+    
+    
+}
+.para2{
+    text-align: center;
+    width: 650px;
+    height: 260px;
+    margin-left: 340px;
+
+}
+.para3{
+    text-align: center;
+    width: 650px;
+    height: 120px;
+    margin-left: 340px;
+
+}
+.para4{
+    text-align: center;
+    width: 650px;
+    height: 120px;
+    margin-left: 340px;
+}
+strong{
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 580px;
+
+}
